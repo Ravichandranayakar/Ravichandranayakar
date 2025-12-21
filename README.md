@@ -1,5 +1,16 @@
 # 💫 About Me:
-👋 About Me<br><br>🧠 Applied Machine Learning Engineer focused on building, evaluating, and deploying real-world ML systems — not just training models in isolation.<br><br>🛠 Currently working on<br>End-to-end ML applications where model performance, data quality, and deployment constraints actually matter. Recently built and deployed an Intelligent Skin Cancer Detection System, covering dataset preprocessing, model training, evaluation, and live inference via a web interface.<br><br>🚀 Key work & highlights<br><br>Built and deployed a skin cancer classification system using deep learning<br><br>Focus on practical ML pipelines: data → model → evaluation → deployment<br><br>Experience turning ML models into usable applications, not just notebooks<br><br>Published a research paper demonstrating applied ML rigor and experimentation<br><br>🤝 Open to collaboration on<br>Applied ML projects involving healthcare, computer vision, NLP, or decision-support systems — especially where models are expected to work beyond controlled datasets.<br><br>🧩 Interested in<br>Model evaluation, dataset bias, generalization, ML system design, and bridging the gap between research ideas and production reality.<br><br>💬 Ask me about<br>Applied machine learning, deploying ML models, evaluation strategies, computer vision pipelines, or converting ML prototypes into real products.<br><br>
+
+I’m an Applied Machine Learning Engineer who likes taking ML ideas all the way to something people can actually use — not stopping at model training or notebooks.
+
+Right now, I’m working on end-to-end ML applications, where things like data quality, evaluation, and deployment matter as much as the model itself. One of my main projects is an Intelligent Skin Cancer Detection System, which I trained, evaluated, and deployed with a live inference interface.
+
+Most of my work is focused on building practical ML pipelines — from data preprocessing to model selection, evaluation, and deployment — and understanding what breaks when models move out of controlled environments.
+
+I’ve also published a research paper, which helped me build a stronger foundation in experimentation and analysis, but my primary interest is applied ML and real-world systems.
+
+I’m open to collaborating on applied ML projects, especially in healthcare, computer vision, or NLP, where the goal is to solve real problems rather than just showcase models.
+
+Ask me about machine learning pipelines, deploying ML models, evaluation strategies, or turning ML prototypes into working applications.
 
 
 ## 🌐 Socials:
