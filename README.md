@@ -1,16 +1,6 @@
 # 💫 About Me:
 
-I’m an Applied Machine Learning Engineer who likes taking ML ideas all the way to something people can actually use — not stopping at model training or notebooks.
-
-Right now, I’m working on end-to-end ML applications, where things like data quality, evaluation, and deployment matter as much as the model itself. One of my main projects is an Intelligent Skin Cancer Detection System, which I trained, evaluated, and deployed with a live inference interface.
-
-Most of my work is focused on building practical ML pipelines — from data preprocessing to model selection, evaluation, and deployment — and understanding what breaks when models move out of controlled environments.
-
-I’ve also published a research paper, which helped me build a stronger foundation in experimentation and analysis, but my primary interest is applied ML and real-world systems.
-
-I’m open to collaborating on applied ML projects, especially in healthcare, computer vision, or NLP, where the goal is to solve real problems rather than just showcase models.
-
-Ask me about machine learning pipelines, deploying ML models, evaluation strategies, or turning ML prototypes into working applications.
+Applied ML Engineer focused on taking models to production — not just training them in notebooks. I build end-to-end pipelines with attention to data quality, evaluation, robustness, and deployment. I recently built and deployed an Intelligent Skin Cancer Detection System with live inference, and I’ve published research, though my priority is real-world ML systems. Open to collaborations in healthcare, CV, and NLP where the goal is practical impact, not demo-ware.
 
 
 ## 🌐 Socials:
