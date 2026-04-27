@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Applied ML Engineer focused on taking models to production — not just training them in notebooks. I build end-to-end pipelines with attention to data quality, evaluation, robustness, and deployment. I recently built and deployed an Intelligent Skin Cancer Detection System with live inference, and I’ve published research, though my priority is real-world ML systems. Open to collaborations in healthcare, CV, and NLP where the goal is practical impact, not demo-ware.
+Applied ML Engineer focused on taking models to production — not just training them in notebooks. I build end-to-end pipelines with attention to data quality, evaluation, robustness, and deployment. I recently built and deployed an Intelligent Skin Cancer Detection System with live inference, and I’ve published research, though my priority is real-world ML systems. Open to collaborations in healthcare, CV, and NLP where the goal is practical impact, not demo-war.
 
 
 ## 🌐 Socials:
