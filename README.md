@@ -1,7 +1,13 @@
-# 💫 About Me:
+### Hi, I'm Ravichandra Nayakar H 👋
 
-Applied ML Engineer focused on taking models to production — not just training them in notebooks. I build end-to-end pipelines with attention to data quality, evaluation, robustness, and deployment. I recently built and deployed an Intelligent Skin Cancer Detection System with live inference, and I’ve published research, though my priority is real-world ML systems. Open to collaborations in healthcare, CV, and NLP where the goal is practical impact, not demo-war.
+I'm a Computer Science student, open-source contributor, and machine learning enthusiast. My primary focus is on ML research, deepleaning, and architecting clean, scalable systems. 
 
+**What drives me:**
+* **Machine Learning & Research:** I spend my time exploring deep learning architectures and **Natural Language Processing**, working  with PyTorch to build, train, and fine-tune models. 
+* **System Design:** I enjoy bridging the gap between heavy computational models and user-facing applications using **Flask**, **FastAPI**, **React**, and **Tailwind CSS**.
+* **Open Source:** I'm a strong advocate for collaborative software. I actively contribute to foundational Python libraries, including **NetworkX** and **Scikit-learn**.
+
+Let's collaborate on AI research or open-source tooling!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ravichandra-nayakar-h-4ba66b303?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BV3aL%2FolPSNOw2c2V%) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@cary76800) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Ravi-Chandr-5) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://meta.stackexchange.com/users/1745855/ravichandra-nayakar-h) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cary76800@gmail.com) 
