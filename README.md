@@ -18,8 +18,4 @@ Let's collaborate on AI research or open-source tooling!
 ---
 ## 📈 GitHub Insights
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ravichandranayakar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ravichandranayakar&theme=tokyonight)](https://git.io/streak-stats)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ravichandranayakar&color=blueviolet&style=flat-square)
