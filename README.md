@@ -18,4 +18,8 @@ Let's collaborate on AI research or open-source tooling!
 ---
 [![](https://visitcount.itsvg.in/api?id=Ravichandranayakar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Stats:
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ravichandranayakar&theme=dark)](https://git.io/streak-stats)
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravichandranayakar&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
