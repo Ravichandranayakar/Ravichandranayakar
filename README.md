@@ -18,12 +18,15 @@ Let's collaborate on AI research or open-source tooling!
 ---
 [![](https://visitcount.itsvg.in/api?id=Ravichandranayakar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ravichandranayakar&theme=dark)](https://git.io/streak-stats)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravichandranayakar&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub Stats
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ravichandranayakar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 🔥 Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ravichandranayakar&theme=tokyonight)](https://git.io/streak-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Ravichandranayakar&color=blueviolet&style=flat-square)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ravichandranayakar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravichandranayakar&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
