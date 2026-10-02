@@ -23,3 +23,7 @@ Let's collaborate on AI research or open-source tooling!
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ravichandranayakar&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ravichandranayakar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ravichandranayakar&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
