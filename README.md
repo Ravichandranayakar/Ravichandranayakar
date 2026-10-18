@@ -18,4 +18,4 @@ Let's collaborate on AI research or open-source tooling!
 ---
 ## 📈 GitHub Insights
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Ravichandranayakar&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ravichandranayakar&theme=tokyonight&v=2)](https://git.io/streak-stats)
