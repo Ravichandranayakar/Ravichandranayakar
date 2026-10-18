@@ -1,10 +1,10 @@
 ### Hi, I'm Ravichandra Nayakar H 👋
 
-I'm a Computer Science student, open-source contributor, and machine learning enthusiast. My primary focus is on ML research, deep learning, and architecting clean, scalable systems. 
+I'm a Computer Science student, open source contributor, and machine learning enthusiast. My primary focus is on ML research, deep learning, and architecting clean, scalable systems. 
 
 **What drives me:**
 * **Machine Learning & Research:** I spend my time exploring deep learning architectures and **Natural Language Processing**, working with PyTorch to build, train, and fine-tune models. 
-* **System Design:** I enjoy bridging the gap between heavy computational models and user-facing applications using **Flask**, **FastAPI**, **React**, and **Tailwind CSS**.
+* **System Design:** I enjoy bridging the gap between heavy computational models and user facing applications using **Flask**, **FastAPI**, **React**, and **Tailwind CSS**.
 * **Open Source:** I'm a strong advocate for collaborative software. I actively contribute to foundational Python libraries, including **NetworkX** and **Scikit-learn**.
 
 Let's collaborate on AI research or open-source tooling!
