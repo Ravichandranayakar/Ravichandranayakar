@@ -10,6 +10,7 @@ I'm a Computer Science student, open source contributor, and machine learning en
 Let's collaborate on AI research or open-source tooling!
 
 ## 🌐 Socials:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://ravichandranayakar.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravichandra-nayakar-h-4ba66b303) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@cary76800) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Ravi-Chandr-5) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://meta.stackexchange.com/users/1745855/ravichandra-nayakar-h) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cary76800@gmail.com) 
 
 ## 💻 Tech Stack:
