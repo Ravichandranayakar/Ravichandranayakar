@@ -7,7 +7,7 @@ I'm a Computer Science student, open source contributor, and machine learning en
 * **System Design:** I enjoy bridging the gap between heavy computational models and user facing applications using **Flask**, **FastAPI**, **React**, and **Tailwind CSS**.
 * **Open Source:** I'm a strong advocate for collaborative software. I actively contribute to foundational Python libraries, including **NetworkX** and **Scikit-learn**.
 
-Let's collaborate on AI research or open-source tooling!
+Let's collaborate on AI research or open source tooling!
 
 ## 🌐 Socials:
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://ravichandranayakar.me)
